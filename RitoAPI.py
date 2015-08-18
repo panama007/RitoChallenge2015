@@ -1,9 +1,3 @@
-''' This file contains a RitoAPI class used to interact with the Riot API
-    there are methods declared for getting matches/items/summoner's, as well
-    as constants for the regions, and urls(only used in here).
-'''
-
-
 import requests
 import json
 import time

@@ -1,10 +1,3 @@
-''' This file contains some functions for analyzing the already downloaded
-    match timeline data. For now it doesn't have its own purpose, I was
-    just messing around with stuff.
-    
-'''
-
-
 from RitoAPI import *
 import os
 
